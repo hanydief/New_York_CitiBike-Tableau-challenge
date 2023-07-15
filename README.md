@@ -1,18 +1,24 @@
 # Jersey_City_CitiBike-Tableau-challenge
 
-# Contributors - 
+# Classmate Contributors on study group- 
 Thank you for helping on Challenge Study Group:
 - Vinny Shankar -- [Vinny Shankar](https://github.com/VinnyShankar)
 - Jed Miller -- [Jed Miller](https://github.com/Jed-Miller)
 - Jesús Jiménez -- [Jesús Jiménez](https://github.com/JesusJimenez3318)
 
+
 # Purpose:
 
 - Cleaning Data on Pandas Jupyter notebook.
+  
 - Import cleaned data into Tableau.
+  
 - Create and style worksheets, dashboards, and stories in Tableau.
+  
 - Use Tableau worksheets to display data in a professional way.
+  
 - Portray data accurately using Tableau dashboards.
+  
 
 # Overview of the statistical analysis:
 
@@ -75,9 +81,13 @@ Your task in this assignment is to aggregate the data found in the Citi Bike Tri
 3- Casual highest usage 8:00 am - 8:00 pm weekends.
 
 4- Bike type demand inorder: 
+
     1) Classic
+    
     2) Electric
+    
     3) Docked
+    
     "maybe they cost diffrence & that's is a main factor".
     
 5- Most bike pickup starts in NJC but ends usually in NJC as well & sometimes way far to NY.
