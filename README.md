@@ -1,6 +1,6 @@
 # Jersey_City_CitiBike-Tableau-challenge
 
-# Classmate Contributors on study group- 
+# Classmate Contributors on study group: 
 Thank you for helping on Challenge Study Group:
 - Vinny Shankar -- [Vinny Shankar](https://github.com/VinnyShankar)
 - Jed Miller -- [Jed Miller](https://github.com/Jed-Miller)
