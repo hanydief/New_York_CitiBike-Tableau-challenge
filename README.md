@@ -8,6 +8,7 @@ Thank you for helping on Challenge Study Group:
 
 # Tableau URL:
 [Tableau URL](https://public.tableau.com/app/profile/hany.dief/viz/Challenge18-CitiBike/JCCitiBikeStory?publish=yes)
+https://public.tableau.com/app/profile/hany.dief/viz/Challenge18-CitiBike/JCCitiBikeStory?publish=yes
 
 
 # Purpose:
