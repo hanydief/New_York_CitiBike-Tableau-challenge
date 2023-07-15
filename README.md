@@ -69,12 +69,17 @@ Your task in this assignment is to aggregate the data found in the Citi Bike Tri
 # Tableau Story Summary:
 
 1- Winter is lowest bike usage while Summer is highest.
+
 2- Members highest usage is during commute hours during weekday.
+
 3- Casual highest usage 8:00 am - 8:00 pm weekends.
+
 4- Bike type demand inorder: 
     1) Classic
     2) Electric
     3) Docked
     "maybe they cost diffrence & that's is a main factor".
+    
 5- Most bike pickup starts in NJC but ends usually in NJC as well & sometimes way far to NY.
+
 6- Wish if NJC CitiBike statistics have Gender & Age informations will be interesting to study & analyize them.
