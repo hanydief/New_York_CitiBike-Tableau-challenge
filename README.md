@@ -6,6 +6,9 @@ Thank you for helping on Challenge Study Group:
 - Jed Miller -- [Jed Miller](https://github.com/Jed-Miller)
 - Jesús Jiménez -- [Jesús Jiménez](https://github.com/JesusJimenez3318)
 
+# Tableau URL:
+[Tableau URL](https://public.tableau.com/app/profile/hany.dief/viz/Challenge18-CitiBike/JCCitiBikeStory?publish=yes)
+
 
 # Purpose:
 
@@ -93,3 +96,7 @@ Your task in this assignment is to aggregate the data found in the Citi Bike Tri
 5- Most bike pickup starts in NJC but ends usually in NJC as well & sometimes way far to NY.
 
 6- Wish if NJC CitiBike statistics have Gender & Age informations will be interesting to study & analyize them.
+
+
+# DATA SOURCES & REFERENCE: 
+[SourceOfData](https://citibikenyc.com/system-data)
