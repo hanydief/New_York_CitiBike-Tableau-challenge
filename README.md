@@ -6,8 +6,8 @@ Thank you for helping on Challenge Study Group:
 - Jed Miller -- [Jed Miller](https://github.com/Jed-Miller)
 - Jesús Jiménez -- [Jesús Jiménez](https://github.com/JesusJimenez3318)
 
-# Tableau URL:
-[Tableau URL](https://public.tableau.com/app/profile/hany.dief/viz/Challenge18-CitiBike/JCCitiBikeStory?publish=yes)
+# Tableau Story URL:
+[Tableau Story URL: ](https://public.tableau.com/app/profile/hany.dief/viz/Challenge18-CitiBike/JCCitiBikeStory?publish=yes)
 https://public.tableau.com/app/profile/hany.dief/viz/Challenge18-CitiBike/JCCitiBikeStory?publish=yes
 
 
@@ -100,4 +100,5 @@ Your task in this assignment is to aggregate the data found in the Citi Bike Tri
 
 
 # DATA SOURCES & REFERENCE: 
-[SourceOfData](https://citibikenyc.com/system-data)
+[Source Of Data: ](https://citibikenyc.com/system-data)
+https://citibikenyc.com/system-data
