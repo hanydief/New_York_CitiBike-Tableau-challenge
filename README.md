@@ -1,17 +1,18 @@
-## Jersey City CitiBike Tableau - (Tableau Challenge)
+# Jersey City CitiBike Tableau - (Tableau Challenge)
 
-# Classmate Contributors on study group: 
+
+## Classmate Contributors on study group: 
 Thank you for helping on Challenge Study Group:
 - Vinny Shankar -- [Vinny Shankar](https://github.com/VinnyShankar)
 - Jed Miller -- [Jed Miller](https://github.com/Jed-Miller)
 - Jesús Jiménez -- [Jesús Jiménez](https://github.com/JesusJimenez3318)
 
-# Tableau Story URL:
+## Tableau Story URL:
 [Tableau Story URL: ](https://public.tableau.com/app/profile/hany.dief/viz/Challenge18-CitiBike/JCCitiBikeStory?publish=yes)
 https://public.tableau.com/app/profile/hany.dief/viz/Challenge18-CitiBike/JCCitiBikeStory?publish=yes
 
 
-# Purpose:
+## Purpose:
 
 - Cleaning Data on Pandas Jupyter notebook.
   
@@ -24,7 +25,7 @@ https://public.tableau.com/app/profile/hany.dief/viz/Challenge18-CitiBike/JCCiti
 - Portray data accurately using Tableau dashboards.
   
 
-# Overview of the statistical analysis:
+## Overview of the statistical analysis:
 
 Since 2013, the Citi Bike program has implemented a robust infrastructure for collecting data on the program's utilization. Each month, bike data is collected, organized, and made public on the Citi Bike Data
 
@@ -32,7 +33,7 @@ Links to an external site. webpage.
 
 However, while the data has been regularly updated, the team has yet to implement a dashboard or sophisticated reporting process. City officials have questions about the program, so your first task on the job is to build a set of data reports to provide the answers.
 
-# Instructions
+## Instructions
 
 Your task in this assignment is to aggregate the data found in the Citi Bike Trip History Logs and find two unexpected phenomena.
 
@@ -55,7 +56,7 @@ Your task in this assignment is to aggregate the data found in the Citi Bike Tri
     - Ensure your presentation is professional, logical, and visually appealing.
 
 
-# Tableau Story
+## Tableau Story
 
 ![P1-Homepage](https://github.com/hanydief/New_York_CitiBike-Tableau-challenge/blob/main/ScreenCaptures/Tableau_HomePage.png)
 
@@ -76,7 +77,7 @@ Your task in this assignment is to aggregate the data found in the Citi Bike Tri
 ![P1-Summary](https://github.com/hanydief/New_York_CitiBike-Tableau-challenge/blob/main/ScreenCaptures/Tableau_Summary.png)
 
 
-# Tableau Story Summary:
+## Tableau Story Summary:
 
 1- Winter is lowest bike usage while Summer is highest.
 
@@ -99,6 +100,6 @@ Your task in this assignment is to aggregate the data found in the Citi Bike Tri
 6- Wish if NJC CitiBike statistics have Gender & Age informations will be interesting to study & analyize them.
 
 
-# DATA SOURCES & REFERENCE: 
+## DATA SOURCES & REFERENCE: 
 [Source Of Data: ](https://citibikenyc.com/system-data)
 https://citibikenyc.com/system-data
