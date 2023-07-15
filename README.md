@@ -1,4 +1,4 @@
-# Jersey_City_CitiBike-Tableau-challenge
+## Jersey City CitiBike Tableau - (Tableau Challenge)
 
 # Classmate Contributors on study group: 
 Thank you for helping on Challenge Study Group:
