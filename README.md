@@ -45,6 +45,36 @@ Your task in this assignment is to aggregate the data found in the Citi Bike Tri
     - Ensure your presentation is professional, logical, and visually appealing.
 
 
-    
+# Tableau Story
 
-Tableau Story
+![P1-Homepage](https://github.com/hanydief/New_York_CitiBike-Tableau-challenge/blob/main/ScreenCaptures/Tableau_HomePage.png)
+
+![P1-StartMap](https://github.com/hanydief/New_York_CitiBike-Tableau-challenge/blob/main/ScreenCaptures/Tableau_StartedMap.png)
+
+![P1-EndMap](https://github.com/hanydief/New_York_CitiBike-Tableau-challenge/blob/main/ScreenCaptures/Tableau_EndedMap.png)
+
+![P1-Start-EndMap](https://github.com/hanydief/New_York_CitiBike-Tableau-challenge/blob/main/ScreenCaptures/Tableau_StartedEndedMap.png)
+
+![P1-Top-Bottom10Stations](https://github.com/hanydief/New_York_CitiBike-Tableau-challenge/blob/main/ScreenCaptures/Top_Bottom_10_Stations.png)
+
+![P1-HeatMap](https://github.com/hanydief/New_York_CitiBike-Tableau-challenge/blob/main/ScreenCaptures/Tableau_HeatMap.png)
+
+![P1-CasualVsMember](https://github.com/hanydief/New_York_CitiBike-Tableau-challenge/blob/main/ScreenCaptures/Tableau_CasualVsMember.png)
+
+![P1-RideTypes&Usage](https://github.com/hanydief/New_York_CitiBike-Tableau-challenge/blob/main/ScreenCaptures/Tableau_RideTypes&Usage.png)
+
+![P1-Summary](https://github.com/hanydief/New_York_CitiBike-Tableau-challenge/blob/main/ScreenCaptures/Tableau_Summary.png)
+
+
+# Tableau Story Summary:
+
+1- Winter is lowest bike usage while Summer is highest.
+2- Members highest usage is during commute hours during weekday.
+3- Casual highest usage 8:00 am - 8:00 pm weekends.
+4- Bike type demand inorder: 
+    1) Classic
+    2) Electric
+    3) Docked
+    "maybe they cost diffrence & that's is a main factor".
+5- Most bike pickup starts in NJC but ends usually in NJC as well & sometimes way far to NY.
+6- Wish if NJC CitiBike statistics have Gender & Age informations will be interesting to study & analyize them.
