@@ -1,5 +1,5 @@
 # Jersey City CitiBike Tableau - (Tableau Challenge)
-
+Expected to generate regular reports for city officials looking to publicize and improve the city program.
 
 ## Classmate Contributors on study group: 
 Thank you for helping on Challenge Study Group:
